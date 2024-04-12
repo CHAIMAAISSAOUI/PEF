@@ -1,0 +1,10 @@
+HEX	RGB
+#402352	rgb(64, 35, 82)
+#f58a27	rgb(245, 138, 39)
+#903ab7	rgb(144, 58, 183)
+#d43c48	rgb(212, 60, 72)
+#fbd58c	rgb(251, 213, 140)
+
+npm i react-router-dom
+
+npm install react-icons
